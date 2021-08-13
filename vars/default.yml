@@ -1,6 +1,6 @@
 ---
 #System Settings
-php_modules: [ 'php7.4-curl', 'php7.4-gd', 'php7.4-mbstring', 'php7.4-xml', 'php7.4-xmlrpc', 'php7.4-soap', 'php7.4-intl', 'php7.4-zip' ]
+php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
 
 #MySQL Settings
 mysql_root_password: "root"
