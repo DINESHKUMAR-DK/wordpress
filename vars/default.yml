@@ -9,6 +9,6 @@ mysql_user: "wordpress"
 mysql_password: "password"
 
 #HTTP Settings
-http_host: "your_domain"
-http_conf: "your_domain.conf"
+http_host: "13.127.136.16"
+http_conf: "13.127.136.16.conf"
 http_port: "80"
